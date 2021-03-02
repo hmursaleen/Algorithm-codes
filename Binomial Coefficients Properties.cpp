@@ -12,7 +12,7 @@ Sum over n and k: Sum of all (N+K)cK, for 0 <= K <= M, equals (N+M+1)cM;
 
 Sum of the squares: Sum of all (NcK)^2 for 0 <= K <= N, equals (2N)cN
 
-Weighted sum: Sum of all K*(NcK), for 1 <= K <= N, equals N * 2^(N+1);
+Weighted sum: Sum of all K*(NcK), for 1 <= K <= N, equals N * 2^(N-1);
 
 Connection with the Fibonacci numbers: Sum of all (N-K)cK, for 0 <= K <= N, equals = Fn+1;
 
